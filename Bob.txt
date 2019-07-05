@@ -1,3 +1,2 @@
-Hi! I'm Bob. I'm new here.
-Bob is being changed on master.
-Bob has already been on master for a while now.
+Hi! I'm Bobby. I've been here for a while now.
+[...]
