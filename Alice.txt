@@ -3,3 +3,4 @@ Alice is here!
 Changing Alice in change_alice branch.
 Add more text to alice.txt in master.
 Bla bla bla alice.
+Newest line in Alice!
